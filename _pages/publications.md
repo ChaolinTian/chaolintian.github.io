@@ -7,7 +7,7 @@ author_profile: true
 ## First-Author Publications
 
 - **Chaolin Tian**, Yurui Huang, Ching Jin, Yifang Ma, & Brian Uzzi. (2024).  
-  **Quantifying the Innovativeness of Celebrated Scientists and Their Embeddedness in Collaboration Networks**.  <br>
+  **The Innovative Distinctiveness of Prizewinners and their Networks**.  <br>
 _arXiv preprint_. [[pdf]](https://arxiv.org/pdf/2411.12180)
 
 <figure style="text-align: center;">
