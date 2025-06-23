@@ -14,9 +14,9 @@ Hi! I am a Ph.D. candidate in the [Department of Statistics and Data Science](ht
 
 My research lies at the intersection of Computational Social Science, Network Science, Science of Science, and Innovation Studies. I am particularly interested in how scholarly behaviors, institutional hierarchies, and collaboration networks shape scientific innovation and knowledge production. I am also increasingly interested in gender and equity in science, especially how recognition and structural conditions shape the careers of women researchers.
 
-Methodologically, I focus on statistical modeling, causal inference, and large-scale data analysis. I have strong capabilities across the full data pipeline—from data collection and preprocessing to analysis and visualization. I also maintain a broader interest in interdisciplinary applications of data science, especially methods that yield actionable insights for theory development and science policy evaluation.
+Methodologically, I specialize in statistical modeling, causal inference, and large-scale data analysis, with end-to-end experience from data collection to visualization. I am also interested in interdisciplinary applications of data science, particularly in developing methods that generate actionable insights for science policy and evaluation.
 
-**I am currently seeking postdoctoral or research opportunities in Computational Social Science, Network Snalysis, or gender and equity studies in academia. Please feel free to reach out if you know of relevant opportunities or would like to connect.**
+**I am currently seeking postdoctoral or research opportunities in computational social science, network analysis, or gender and equity studies in academia. Please feel free to reach out if you know of relevant opportunities or would like to connect.**
 
 ## Education
 * 2021/09 - 2025/06:  Ph.D. in Department of Statistics and Data Science, Southern University of Science and Technology.
