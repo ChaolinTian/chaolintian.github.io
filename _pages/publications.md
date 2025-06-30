@@ -54,7 +54,7 @@ _arXiv preprint_. [[pdf]](https://arxiv.org/pdf/2401.12739)
   **Practical Operation and Theoretical Basis of Difference-in-Difference Regression in Science of Science: A Comparative Trial on the Scientific Performance of Nobel Laureates versus Their Coauthors**.    <br>
  *Journal of Data and Information Science*, 8(1), 29–46. [[pdf]](https://www.j-jdis.com/EN/10.2478/jdis-2023-0003)
 
-- Yurui Huang., Xunsen Cheng., **Chaolin Tian.**, Xunyi Jiang, Langtian Ma, & Yifang Ma. (2024).  
+- Yurui Huang, Xunsen Cheng, **Chaolin Tian**, Xunyi Jiang, Langtian Ma, & Yifang Ma. (2024).  
   **Talent Hat, Cross-border Mobility, and Career Development in China**.  <br>
 *Quantitative Science Studies*, 1–24. [[pdf]](https://direct.mit.edu/qss/article/5/3/516/120942)
 
