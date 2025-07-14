@@ -22,4 +22,4 @@ Methodologically, I specialize in statistical modeling, causal inference, and la
 * 2015/09 - 2019/07:  B.A. in School of Mathematics, Yunnan Normal University.
 
 ## Contact
-Email: 12131250@mail.sustech.edu.cn **or** chaolintian@gmail.com
+Email: chaolintian@gmail.com
