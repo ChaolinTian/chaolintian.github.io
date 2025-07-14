@@ -16,8 +16,6 @@ My research lies at the intersection of Computational Social Science, Network Sc
 
 Methodologically, I specialize in statistical modeling, causal inference, and large-scale data analysis, with end-to-end experience from data collection to visualization.
 
-**I am currently seeking postdoctoral or research opportunities in computational social science, network analysis, or gender and equity studies in academia. Please feel free to reach out if you know of relevant opportunities or would like to connect.**
-
 ## Education
 * 2021/09 - 2025/06:  Ph.D. in Department of Statistics and Data Science, Southern University of Science and Technology.
 * 2019/09 - 2021/07:  M.S. in Department of Statistics and Data Science, Southern University of Science and Technology.
