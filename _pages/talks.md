@@ -1,15 +1,14 @@
 ---
-layout: archive
-title: "Talks"
+layout: academic
+title: "Talks, Service & Awards"
 permalink: /talks/
-author_profile: true
+description: "Talks, professional service, fellowships and awards of CHAOLIN TIAN."
 ---
-- **The International Conference on the Science of Science and Innovation (ICSSI)**. Copenhagen, June 2025.  
-  <!-- *(Talk title: "Quantifying the Innovativeness of Celebrated Scientists and Their Embeddedness in Collaboration Networks")*-->
 
-- **The 7th Tianfu Forum on Scientific Metrology and Technology Evaluation**. Chengdu, December 2024.  
-  <!-- *(Talk title: "Quantifying the Innovativeness of Celebrated Scientists and Their Embeddedness in Collaboration Networks")*-->
-
-- **The 19th Chinese Conference on Complex Networks (CCCN)**. Guilin, November 2023.  
- <!--  *(Talk title: "Decoding University Hierarchy and Prestige in China through Domestic Ph.D. Hiring Network")*-->
-
+<div class="page-content"><h1 class="page-title">Talks, Service &amp; Awards</h1><p class="page-subtitle">Invited talks, conference presentations, professional service, and selected honors.</p>
+<section class="activity-group"><h2>Invited talks</h2><article class="activity-item"><div class="activity-date">Aug 2025</div><div><h3><a href="https://www.ynnu.edu.cn/" target="_blank" rel="noopener noreferrer">Yunnan Normal University</a></h3><p>Kunming, China</p><p class="talk-title">The Innovative Distinctiveness of Prizewinners and Their Networks</p></div></article>
+<article class="activity-item"><div class="activity-date">Jun 2025</div><div><h3><a href="https://www.ku.dk/en" target="_blank" rel="noopener noreferrer">University of Copenhagen</a></h3><p>Copenhagen, Denmark</p><p class="talk-title">The Innovative Distinctiveness of Prizewinners and Their Networks</p></div></article></section>
+<section class="activity-group"><h2>Conference presentations</h2><article class="activity-item"><div class="activity-date">Jun 2025</div><div><h3>International Conference on the Science of Science and Innovation (ICSSI)</h3><p>Copenhagen, Denmark</p><p class="talk-title">Quantifying the Innovativeness of Celebrated Scientists and Their Embeddedness in Collaboration Networks</p></div></article>
+<article class="activity-item"><div class="activity-date">Dec 2024</div><div><h3>The 7th Tianfu Forum on Scientific Metrology and Technology Evaluation</h3><p>Chengdu, China</p><p class="talk-title">Quantifying the Innovativeness of Celebrated Scientists and Their Embeddedness in Collaboration Networks</p></div></article>
+<article class="activity-item"><div class="activity-date">Nov 2024</div><div><h3>SUSTech–UIC Joint Graduate Academic Symposium</h3><p class="talk-title">Statistical Analysis and Modeling of Scholars’ Academic Characteristics Using Large-Scale Research Data</p></div></article>
+<article class="activity-item"><div class="activity-date">Nov 2023</div><div><h3>The 19th Chinese Conference on Complex Networks (CCCN)</h3><p>Guilin, China</p><p class="talk-title">Quantifying Hierarchy and Dynamics in Chinese Faculty Hiring Networks</p></div></article></section><section class="activity-group" id="professional-service"><h2>Professional service</h2><div class="service-item"><h3>Ad Hoc Reviewer</h3><p>Humanities and Social Sciences Communications; Scientific Data; Discover Education</p></div><div class="service-item"><h3>Conference Volunteer</h3><p>Organizing Team Member for three consecutive years, Shenzhen International Conference on Frontiers of Statistics and Data Science (2021–2024)</p></div></section><section class="activity-group" id="awards"><h2>Fellowships and awards</h2><div class="award-item"><div class="award-date">Jan 2024</div><div><div class="award-name">Outstanding Graduate Student</div><div class="award-institution">SUSTech</div></div></div><div class="award-item"><div class="award-date">Sep 2021 – Jun 2025</div><div><div class="award-name">Doctoral Research Fellowship</div><div class="award-institution">SUSTech</div></div></div><div class="award-item"><div class="award-date">Sep 2019 – Jun 2021</div><div><div class="award-name">Graduate Research Fellowship</div><div class="award-institution">SUSTech</div></div></div><div class="award-item"><div class="award-date">Jul 2019</div><div><div class="award-name">Outstanding Undergraduate Graduate of Yunnan Province</div><div class="award-institution">YNNU</div></div></div><div class="award-item"><div class="award-date">Nov 2018</div><div><div class="award-name">National Scholarship</div><div class="award-institution">YNNU</div></div></div><div class="award-item"><div class="award-date">Nov 2017</div><div><div class="award-name">National Endeavor Scholarship</div><div class="award-institution">YNNU</div></div></div><div class="award-item"><div class="award-date">Nov 2017</div><div><div class="award-name">National Second Prize, China Undergraduate Mathematical Contest in Modeling</div><div class="award-institution">YNNU</div></div></div></section></div>

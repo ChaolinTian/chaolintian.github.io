@@ -1,25 +1,28 @@
 ---
+layout: academic
+title: "Home"
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+description: "CHAOLIN TIAN, Postdoctoral Fellow at Northwestern University. Research on scientific careers, status mobility, collaboration networks and recognition."
 ---
 
-<!-- <img src="../images/2023.8.jpg" width="600"> -->
-
-Hi! I am a Ph.D. graduate in the [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/) at Southern University of Science and Technology (SUSTech), fortunate to be advised by Assistant Professor [Yifang Ma](https://faculty.sustech.edu.cn/?tagid=mayf&iscss=1&snapid=1&orderby=date&go=2). I previously received my M.S. in Statistics from the same department under the supervision of Professor [Guoliang Tian](https://faculty.sustech.edu.cn/?tagid=tiangl&iscss=1&snapid=1&orderby=date&go=2).
-
-My research lies at the intersection of Computational Social Science, Network Science, Science of Science, and Innovation Studies. I study how scholarly behaviors, institutional hierarchies, and collaboration networks shape scientific innovation and knowledge production, as well as how recognition and structural conditions influence the careers of women researchers. Applying data science in an interdisciplinary context, I extract actionable insights that inform science policy and research evaluation.
-
-Methodologically, I specialize in statistical modeling, causal inference, and large-scale data analysis, with end-to-end experience from data collection to visualization.
-
-## Education
-* 2021/09 - 2025/06:  Ph.D. in Department of Statistics and Data Science, Southern University of Science and Technology.
-* 2019/09 - 2021/07:  M.S. in Department of Statistics and Data Science, Southern University of Science and Technology.
-* 2015/09 - 2019/07:  B.A. in School of Mathematics, Yunnan Normal University.
-
-## Contact
-Email: chaolintian@gmail.com
+<section class="home-intro" id="introduction">
+  <div><h1>CHAOLIN TIAN</h1>
+    <p>Hi, I'm Chaolin Tian. I am a Postdoctoral Fellow at the <a href="https://www.kellogg.northwestern.edu/" target="_blank" rel="noopener noreferrer">Kellogg School of Management</a> at <a href="https://www.northwestern.edu/" target="_blank" rel="noopener noreferrer">Northwestern University</a>, working with Prof. <a href="https://www.kellogg.northwestern.edu/faculty/uzzi/htm/index.htm" target="_blank" rel="noopener noreferrer">Brian Uzzi</a>. I received my Ph.D. in Data Science from the <a href="https://stat-ds.sustech.edu.cn/" target="_blank" rel="noopener noreferrer">Department of Statistics and Data Science</a> at <a href="https://www.sustech.edu.cn/en/" target="_blank" rel="noopener noreferrer">Southern University of Science and Technology</a>, under the supervision of Prof. <a href="https://faculty.sustech.edu.cn/?tagid=mayf&amp;iscss=1&amp;snapid=1&amp;orderby=date&amp;go=2" target="_blank" rel="noopener noreferrer">Yifang Ma</a>.</p>
+    <p>My research examines how knowledge workers develop their careers and create innovation. Focusing on scientists, I study how recognition and social capital interact to shape career opportunities, mobility, and collaboration. I also explore how AI may change these relationships.</p>
+  </div>
+  <aside class="profile-aside">
+    <figure class="photo-figure"><img src="{{ '/images/chaolin-portrait.jpg' | relative_url }}" width="1706" height="1279" alt="CHAOLIN TIAN outdoors in a park"></figure>
+    <nav class="profile-links" aria-label="Academic profiles and curriculum vitae">
+      <a href="https://scholar.google.com/citations?user=77Tdkt0AAAAJ" target="_blank" rel="noopener noreferrer"><svg class="profile-icon scholar-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="11" fill="#4285F4"/><path d="m3.8 9.6 8.2-4.3 8.2 4.3L12 14 3.8 9.6Z" fill="#fff"/><path d="M7.1 12.5v3.7c2.9 2 6.9 2 9.8 0v-3.7L12 15.1l-4.9-2.6Z" fill="#fff"/><path d="M19.7 10.4v5.1" stroke="#fff" stroke-width="1.3" stroke-linecap="round"/></svg><span class="profile-link-text">Google Scholar</span></a>
+      <a href="https://www.linkedin.com/in/chaolin-tian-753823304/" target="_blank" rel="noopener noreferrer"><svg class="profile-icon linkedin-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="#0A66C2" d="M20.447 20.452h-3.554v-5.569c0-1.327-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.35V9h3.414v1.561h.049c.476-.9 1.637-1.85 3.37-1.85 3.603 0 4.268 2.371 4.268 5.456v6.285zM5.337 7.433a2.062 2.062 0 1 1 0-4.124 2.062 2.062 0 0 1 0 4.124zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.226.792 24 1.771 24h20.451C23.2 24 24 23.226 24 22.271V1.729C24 .774 23.2 0 22.225 0z"/></svg><span class="profile-link-text">LinkedIn</span></a>
+      <a href="{{ '/files/Chaolin_Tian_CV.pdf' | relative_url }}" download="Chaolin_Tian_CV.pdf"><svg class="profile-icon cv-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M13.5 2.5H5.8A1.8 1.8 0 0 0 4 4.3v15.4a1.8 1.8 0 0 0 1.8 1.8h12.4a1.8 1.8 0 0 0 1.8-1.8V9L13.5 2.5Z"/><path d="M13.5 2.5V9H20M8 13h8M8 17h5"/></svg><span class="profile-link-text">Download CV</span></a>
+    </nav>
+    <p class="profile-email"><svg class="profile-icon email-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="2.6" y="5.3" width="18.8" height="13.5" rx="2.2"/><path d="m3.5 7.1 8.5 6.3 8.5-6.3"/></svg><span>chaolin.tian@kellogg.northwestern.edu</span></p>
+  </aside>
+</section>
+<section class="home-section" id="recent-publications"><h2>Selected Publications</h2>
+  <div class="pub-line selected-publication"><figure class="selected-paper-figure"><img src="{{ '/images/faculty-hiring-hierarchy.png' | relative_url }}" alt="Empirical and null-model comparisons, and faculty hiring network hierarchy" loading="lazy"></figure><div class="paper-title"><a href="https://doi.org/10.1057/s41599-026-06717-y" target="_blank">Mapping university prestige and hierarchy in China via faculty hiring networks of internationally active Ph.D.s</a></div><div class="citation"><strong>Chaolin Tian</strong>, Xunyi Jiang*, Yurui Huang, Langtian Ma*, and Yifang Ma. <em>Humanities and Social Sciences Communications, 13, 379</em> (2026).</div></div>
+  <div class="pub-line selected-publication"><figure class="selected-paper-figure"><img src="{{ '/images/prizewinner-comparison.png' | relative_url }}" alt="Research figure comparing prizewinners with matched non-prizewinners" loading="lazy"></figure><div class="paper-title"><a href="https://doi.org/10.1073/pnas.2424143122" target="_blank">The distinctive innovation patterns and network embeddedness of scientific prizewinners</a></div><div class="citation"><strong>Chaolin Tian</strong>, Yurui Huang, Ching Jin, Yifang Ma, and Brian Uzzi. <em>Proceedings of the National Academy of Sciences, 122(40), e2424143122</em> (2025).</div></div>
+  <p class="text-link" style="margin-top:14px"><a href="{{ '/publications/' | relative_url }}">Full publication list</a></p>
+</section>
+<section class="home-section" id="personal"><h2>Outside research</h2><p>I enjoy swimming, rock climbing, boxing, and exploring architecture.</p></section>

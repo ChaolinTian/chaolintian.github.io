@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chaolin Tian"
+title                    : "CHAOLIN TIAN"
 title_separator          : "-"
-name                     : &name "Chaolin Tian"
-description              : &description "personal description"
+name                     : &name "CHAOLIN TIAN"
+description              : &description "CHAOLIN TIAN is a Postdoctoral Fellow at Northwestern University studying social networks, scientific careers, status mobility, recognition, and computational social science."
 url                      : https://chaolintian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ChaolinTian/chaolintian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -66,9 +66,12 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "CHAOLIN TIAN"
+  links:
+    - "https://scholar.google.com/citations?user=77Tdkt0AAAAJ"
+    - "https://orcid.org/0000-0001-7172-9702"
+    - "https://github.com/ChaolinTian"
 
 
 # Analytics
@@ -80,14 +83,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chaolin Tian 田朝林"
-  avatar           : "个人形象照_大.jpg"
-  bio              : "Ph.D. Candidate in Data Science"
-  location         : "Shenzhen"
-  employer         :
+  name             : "CHAOLIN TIAN 田朝林"
+  avatar           : "chaolin-portrait.jpg"
+  bio              : "Postdoctoral Fellow at Northwestern University"
+  location         : "Evanston, Illinois"
+  employer         : "Kellogg School of Management"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=77Tdkt0AAAAJ&hl=zh-CN"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=77Tdkt0AAAAJ"
+  email            : "chaolin.tian@kellogg.northwestern.edu"
   researchgate     : "https://www.researchgate.net/profile/Chaolin-Tian"
   uri              :
   bitbucket        :
@@ -96,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"https://github.com/ChaolinTian"
+  github           : "ChaolinTian"
   google_plus      :
   keybase          :
   instagram        :
@@ -255,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

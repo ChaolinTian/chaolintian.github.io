@@ -1,77 +1,27 @@
 ---
-layout: archive
+layout: academic
 title: "Publications"
 permalink: /publications/
-author_profile: true
+description: "Peer-reviewed publications, working papers, and manuscripts by Chaolin Tian."
 ---
-## First-Author Publications
 
-- **Chaolin Tian**, Yurui Huang, Ching Jin, Yifang Ma, & Brian Uzzi. (2024).  
-  **The Innovative Distinctiveness of Prizewinners and their Networks**.  <br>
-_arXiv preprint_. [[pdf]](https://arxiv.org/pdf/2411.12180)
-
-<figure style="text-align: center;">
-  <img src="../images/Figure_2.jpg" width="600">
-  <figcaption>Temporal patterns of innovativeness for prizewinners and matched non-prizewinners. 
-  The figure shows how innovativeness—measured via novelty, convergence, and interdisciplinarity—rises and diverges between groups around the prizewinning year (t=0), highlighting persistent post-award differences.</figcaption>
-</figure>
-
-
-- **Chaolin Tian**, Xunyi Jiang, Yurui Huang, Langtian Ma, & Yifang Ma. (2024).  
-  **Decoding University Hierarchy and Prestige in China through Domestic Ph.D. Hiring Network**.  <br>
-_arXiv preprint_. [[pdf]](https://arxiv.org/pdf/2401.12739)
-
-<figure style="text-align: center;">
-  <img src="../images/Figure 3.jpg" width="600">
-  <figcaption> Prestige hierarchy in China's faculty hiring network. 
-  (Left) The distribution of unviolated edges indicates significant hierarchical structure in empirical data compared to a null model. 
-  (Right) Nested stochastic block models (SBMs) reveal a clear core-periphery pattern, with the “C9 League” universities forming the central core of the hiring network.</figcaption>
-</figure>
-
-## Working papers
-
-- **Chaolin Tian**, Fan Jiang, Yurui Huang, Cassidy R Sugimoto, & Yifang Ma. (2024).  
-  **Prize Recognition Boosts Women’s Scientific Status and Career Longevity More than Men's**.  <br>
- _Manuscript_.
-
-- **Chaolin Tian**, Brian Uzzi, & Yifang Ma. (2025).  
-  **Unveiling the Intellectual Dimensions of the Innovativeness Metrics in Science**.  <br>
- _Manuscript_.
-
-- **Chaolin Tian**, & Yifang Ma. (2025).  
-  **The Innovation Trap of Early-Career Researchers**.  <br>
- _Manuscript_.
-
-## Ph.D. dissertation
-
-- **Chaolin Tian** (2025). Statistical Analysis and Modeling of Scholar Academic Characteristics Based on Large-Scale Scientific Data.
-(基于大规模科研数据的学者学术特征统计分析与建模)
-
-
-## Co-Authored Publications
-
-- Yurui Huang, **Chaolin Tian**, & Yifang Ma. (2023).  
-  **Practical Operation and Theoretical Basis of Difference-in-Difference Regression in Science of Science: A Comparative Trial on the Scientific Performance of Nobel Laureates versus Their Coauthors**.    <br>
- *Journal of Data and Information Science*, 8(1), 29–46. [[pdf]](https://www.j-jdis.com/EN/10.2478/jdis-2023-0003)
-
-- Yurui Huang, Xunsen Cheng, **Chaolin Tian**, Xunyi Jiang, Langtian Ma, & Yifang Ma. (2024).  
-  **Talent Hat, Cross-border Mobility, and Career Development in China**.  <br>
-*Quantitative Science Studies*, 1–24. [[pdf]](https://direct.mit.edu/qss/article/5/3/516/120942)
-
-- Yongshen He, Yurui Huang, **Chaolin Tian**, Shingbin Xiang, & Yifang Ma. (2024).  
-  **Neural Embeddings of Scientific Mobility Reveal the Stratification of Institutions in China**.   <br>
-  *Information Processing & Management*, 61(3), 103702. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457324000621)
-
-- Yurui Huang, Zimo Wang, **Chaolin Tian**, & Yifang Ma. (2024).  
-  **Community Detection on Elite Mathematicians' Collaboration Network**.   <br>
- *Journal of Data and Information Science*, 9(4), 1–23. [[pdf]](https://www.j-jdis.com/EN/10.2478/jdis-2024-0026)
-
-- Shing bin Xiang, Xin Jiang, Bing Liu, Yurui Huang, **Chaolin Tian** & Yifang Ma. (2025).  
-  **Knowledge Navigation: Inferring the Interlocking Map of Knowledge from Research Trajectories**.   <br>
- *Journal of the Association for Information Science and Technology.* [[pdf]](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.25005?af=R)
-
-- Yurui Huang, Langtian Ma, **Chaolin Tian**, Xunyi Jiang, Roberta Sinatra, & Yifang Ma. (2024).  
-  **Quantifying the Hierarchical Scales of Scientists' Mobility**.   <br>
-_arXiv preprint_. [[pdf]](https://arxiv.org/pdf/2401.06794)
-
-
+<div class="page-content" id="full-publications"><h1 class="page-title">Publications</h1><p class="page-subtitle">Peer-reviewed articles and ongoing manuscripts.</p>
+<h2>Working papers</h2><ol class="publication-list">
+<li><span class="year">2025</span><div><div class="paper-authors"><strong>Chaolin Tian</strong>, Yifang Ma, and Brian Uzzi</div><div class="paper-title-plain">The Universal Dynamics of Exceptional Achievement</div><div class="paper-meta"><em>Working paper</em></div></div></li>
+<li><span class="year">2026</span><div><div class="paper-authors"><strong>Chaolin Tian</strong> and Brian Uzzi</div><div class="paper-title-plain">From Academia to Industry: How Career Transitions Reshape Scientific Collaboration</div><div class="paper-meta"><em>Working paper</em></div></div></li>
+<li><span class="year">2026</span><div><div class="paper-authors"><strong>Chaolin Tian</strong>, Zhu Wang, Yifang Ma, and Brian Uzzi</div><div class="paper-title-plain">Artificial Intelligence and the Changing Role of Social Capital in Science</div><div class="paper-meta"><em>Working paper</em></div></div></li>
+<li><span class="year">2026</span><div><div class="paper-authors">Moh Hosseinioun, <strong>Chaolin Tian</strong>, and Brian Uzzi</div><div class="paper-title-plain">The Long-Run Career Consequences of MBA Admission and Enrollment Decisions</div><div class="paper-meta"><em>Working paper</em></div></div></li>
+</ol><h2>Manuscripts and preprints</h2><ol class="publication-list">
+<li><span class="year">2025</span><div><div class="paper-authors"><strong>Chaolin Tian</strong>, Brian Uzzi, and Yifang Ma</div><div class="paper-title-plain">Unveiling the Intellectual Dimensions of the Innovativeness Metrics in Science</div><div class="paper-meta"><em>Manuscript</em></div></div></li>
+<li><span class="year">2025</span><div><div class="paper-authors"><strong>Chaolin Tian</strong> and Yifang Ma</div><div class="paper-title-plain">The Innovation Trap of Early-Career Researchers</div><div class="paper-meta"><em>Manuscript</em></div></div></li>
+<li><span class="year">2024</span><div><div class="paper-authors"><strong>Chaolin Tian</strong>, Fan Jiang, Yurui Huang, Cassidy R. Sugimoto, and Yifang Ma</div><div class="paper-title-plain">Prize Recognition Boosts Women’s Scientific Status and Career Longevity More than Men’s</div><div class="paper-meta"><em>Manuscript</em></div></div></li>
+<li><span class="year">2024</span><div><div class="paper-authors">Yurui Huang, Langtian Ma*, <strong>Chaolin Tian</strong>, Xunyi Jiang*, Roberta Sinatra, and Yifang Ma</div><div class="paper-title-plain">Quantifying the hierarchical scales of scientists’ mobility</div><div class="paper-meta"><em>arXiv:2401.06794</em> · <a href="https://arxiv.org/abs/2401.06794" target="_blank" rel="noopener noreferrer">Paper</a></div></div></li>
+</ol><h2>Peer-reviewed publications</h2><ol class="publication-list">
+<li><span class="year">2026</span><div><div class="paper-authors"><strong>Chaolin Tian</strong>, Xunyi Jiang*, Yurui Huang, Langtian Ma*, and Yifang Ma</div><div class="paper-title-plain">Mapping university prestige and hierarchy in China via faculty hiring networks of internationally active Ph.D.s</div><div class="paper-meta"><em>Humanities and Social Sciences Communications, 13, 379</em> · <a href="https://doi.org/10.1057/s41599-026-06717-y" target="_blank" rel="noopener noreferrer">Paper</a></div></div></li>
+<li><span class="year">2025</span><div><div class="paper-authors"><strong>Chaolin Tian</strong>, Yurui Huang, Ching Jin, Yifang Ma, and Brian Uzzi</div><div class="paper-title-plain">The distinctive innovation patterns and network embeddedness of scientific prizewinners</div><div class="paper-meta"><em>Proceedings of the National Academy of Sciences, 122(40), e2424143122</em> · <a href="https://doi.org/10.1073/pnas.2424143122" target="_blank" rel="noopener noreferrer">Paper</a></div></div></li>
+<li><span class="year">2025</span><div><div class="paper-authors">Shibing Xiang, Xin Jiang, Bing Liu, Yurui Huang, <strong>Chaolin Tian</strong>, and Yifang Ma</div><div class="paper-title-plain">SciConNav: Knowledge navigation through contextual learning of extensive scientific research trajectories</div><div class="paper-meta"><em>Journal of the Association for Information Science and Technology, 76(10), 1308–1339</em></div></div></li>
+<li><span class="year">2024</span><div><div class="paper-authors">Yurui Huang, Xuesen Cheng, <strong>Chaolin Tian</strong>, Xunyi Jiang*, Langtian Ma*, and Yifang Ma</div><div class="paper-title-plain">Talent hat, cross-border mobility, and career development in China</div><div class="paper-meta"><em>Quantitative Science Studies, 5(3), 516–532</em> · <a href="https://direct.mit.edu/qss/article/5/3/516/120942" target="_blank" rel="noopener noreferrer">Paper</a></div></div></li>
+<li><span class="year">2024</span><div><div class="paper-authors">Yongshen He*, Yurui Huang, <strong>Chaolin Tian</strong>, Shibing Xiang, and Yifang Ma</div><div class="paper-title-plain">Neural embeddings of scientific mobility reveal the stratification of institutions in China</div><div class="paper-meta"><em>Information Processing &amp; Management, 61(3), 103702</em> · <a href="https://www.sciencedirect.com/science/article/pii/S0306457324000621" target="_blank" rel="noopener noreferrer">Paper</a></div></div></li>
+<li><span class="year">2024</span><div><div class="paper-authors">Yurui Huang, Zimo Wang, <strong>Chaolin Tian</strong>, and Yifang Ma</div><div class="paper-title-plain">Community detection on elite mathematicians’ collaboration network</div><div class="paper-meta"><em>Journal of Data and Information Science, 9(4), 1–23</em> · <a href="https://www.j-jdis.com/EN/10.2478/jdis-2024-0026" target="_blank" rel="noopener noreferrer">Paper</a></div></div></li>
+<li><span class="year">2023</span><div><div class="paper-authors">Yurui Huang, <strong>Chaolin Tian</strong>, and Yifang Ma</div><div class="paper-title-plain">Practical operation and theoretical basis of difference-in-difference regression in science of science: The comparative trial on the scientific performance of Nobel laureates versus their coauthors</div><div class="paper-meta"><em>Journal of Data and Information Science, 8(1), 29–46</em> · <a href="https://www.j-jdis.com/EN/10.2478/jdis-2023-0003" target="_blank" rel="noopener noreferrer">Paper</a></div></div></li>
+</ol></div>
